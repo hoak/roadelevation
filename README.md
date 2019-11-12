@@ -1,5 +1,5 @@
 # roadelevation
-v1.0 11/12/2019 This is an ArcGIS Pro/Jupuyter Notebook data processing workflow. This shows how to create elevation points and 3D roads from 2d roads.
+v1.0 11/12/2019 This is an ArcGIS Pro/Jupyter Notebook data processing workflow. ArcGIS Pro 2.4 used with the 3D analyst extension, and the out of the box Jupyter notebook environment with ArcGIS Pro. This shows how to create elevation points and 3D roads from 2d roads.
 
 This takes an elevation raster and 2d road lines as input and uses a python script (Jupyter notebook) to:
 - generalize and then insert vertices every X meters
@@ -10,4 +10,4 @@ This takes an elevation raster and 2d road lines as input and uses a python scri
 - split the 3d roads into 3d segments at the vertices
 - add the x, y, and z start and end values as attributes to the 3d segments
 
-An Mp4 video with audio also shows the process. ArcGIS Pro 2,4 used with the 3D analyst extension. Open source data street from Falls Church City, VA website is used and a clip of downsampled elevation data from the ArcGIS Online living atlas.
+An Mp4 video with audio also shows the process. Open source data street from Falls Church City, VA website is used and a clip of downsampled elevation data from the ArcGIS Online living atlas.
