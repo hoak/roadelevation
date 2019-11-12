@@ -1,5 +1,5 @@
 # roadelevation
-Create elevation points and 3D roads from 2d roads
+v1.0 11/12/2019 This is an ArcGIS Pro/Jupuyter Notebook data processing workflow. This shows how to create elevation points and 3D roads from 2d roads.
 
 This takes an elevation raster and 2d road lines as input and uses a python script (Jupyter notebook) to:
 - generalize and then insert vertices every X meters
