@@ -7,3 +7,5 @@ This takes an elevation raster and 2d road lines as input and uses a python scri
 - used those 3d points to create 3d roads
 - slit the 3d roads into 3d segments
 - add the ending a starting elevation and XY values as attributes to the segments
+
+An Mp4 video with audio also shows the process. ArcGIS Pro is used.
